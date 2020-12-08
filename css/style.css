@@ -1,0 +1,86 @@
+*
+body{	
+background:url("images/tpov.jpg");
+background-size: cover;
+background-attachment: all;
+text-align: center;
+background-position: absolute;
+height: 450%;
+
+	}
+
+.container{
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+
+h1{
+	text-align: center;
+	font:white;
+
+}	
+
+.nav-area{
+	float: right;
+	list-style: none;
+	margin: 30px;
+}
+
+.nav-area li{
+	display: inline-block;
+}
+
+.nav-area li a{
+	color: grey;
+	text-decoration: none;
+	padding: 15px 30px;
+	font-family: poppins;
+	font-size: 20px;
+}
+
+.nav-area li a:hover{
+	background: grey;
+	color: white;
+}
+
+<!--home Page-->
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
